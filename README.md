@@ -14,6 +14,8 @@ Come up with a proposal for a project that can test how long it will take to sor
 * a way to compare our results
 
 Some questions to consider:
+* is one algorithm better with lower numbers in the dataset/higher?
+* does the range of random numbers matter?
 * does a dataset that is 100 times bigger take 100 times longer to sort?
 * can we predict how long an algorithm will take to sort?
 * how can we present our findings?
